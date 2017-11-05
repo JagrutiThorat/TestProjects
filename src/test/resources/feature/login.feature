@@ -9,8 +9,8 @@ Scenario Outline: : User Authentication Success
 	     
 	Examples: 
 		|username|password|
-		|jagruti.ghorpade@gmail.com|79ganesh|  
-		|jagruti.g.thorat@gmail.com|79ganesh|
+		|jagruti.ghorpade@gmail.com|aaaaaa|  
+		|jagruti.g.thorat@gmail.com|cccccc|
 		|gt9111987@gmail.com|abcd|
 		
 		
